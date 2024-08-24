@@ -1,4 +1,4 @@
-# Bus Booking Ticket Desktop Software
+# Bus Booking Ticket Desktop System
 
 This project is a simple Java-based system for managing administrative tasks and displaying available routes and times. It includes functionalities for reading and displaying admin credentials, routes, and schedules. The code demonstrates basic file handling, string manipulation, and object-oriented programming principles.
 
